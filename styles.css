@@ -1,0 +1,37 @@
+.header-container{
+    background: rgb(31, 173, 131);
+}
+
+.h1 {
+  color: rgba(0, 0, 255, 0.671);
+  user-select: none;
+}
+
+.h2 {
+  color: rgb(50, 245, 229);
+  user-select: none;
+}
+
+.h3 {
+  color: rgb(111, 230, 111);
+  user-select: none;
+}
+
+.h4 {
+  color: rgb(185, 15, 38);
+  user-select: none;
+}
+
+.h5 {
+  color: rgb(61, 9, 128);
+  user-select: none;
+}
+
+.h6 {
+  color: rgb(255, 136, 0);
+  user-select: none;
+}
+
+.li {
+    user-select: none;
+}
